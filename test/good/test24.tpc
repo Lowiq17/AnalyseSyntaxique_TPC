@@ -1,0 +1,12 @@
+int main(void) {
+    int y;
+    int x;
+    if (a == b) {
+         if (c == d) {
+            x = 5;
+         } else {
+            y = 10;
+         }
+    }
+       
+}

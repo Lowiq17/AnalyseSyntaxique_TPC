@@ -1,0 +1,5 @@
+int sum(int ab, int bc) {
+    int a;
+    a = 2 + 2 + 3 + 4;
+    return 0;
+}

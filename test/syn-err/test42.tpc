@@ -1,0 +1,5 @@
+int main(void) {
+    while 5 { // Parenthèses manquantes autour de la condition
+        return 0;
+    }
+}

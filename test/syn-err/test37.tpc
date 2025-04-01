@@ -1,0 +1,3 @@
+integer main(void) { // "integer" n'est pas un type valide
+    return 0;
+}

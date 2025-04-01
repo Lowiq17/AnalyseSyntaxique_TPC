@@ -1,0 +1,9 @@
+int main(void) {
+                int a;
+    
+    
+    
+    static char b;
+            b = 'b';
+    return;
+}

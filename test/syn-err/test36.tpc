@@ -1,0 +1,5 @@
+int main(void) {
+    int a = 5;
+    a = a $ 1; // Le symbole $ n'est pas reconnu
+    return 0;
+}

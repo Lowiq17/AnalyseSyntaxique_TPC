@@ -1,0 +1,4 @@
+int main(void) {
+    char c = ''; // Caractère littéral vide non valide
+    return 0;
+}

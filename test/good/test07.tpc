@@ -1,0 +1,10 @@
+int sum(int a, int b) {
+    static int c;
+    return b;
+}
+
+int main(void) {
+    int a;
+    a = b; // b non  initialisé
+    return 0;
+}

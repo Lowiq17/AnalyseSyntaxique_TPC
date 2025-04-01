@@ -1,0 +1,4 @@
+int main(void) {
+    int a = 0123456789; // Erreur car les nombres commençant par 0 sont interprétés comme octaux
+    return 0;
+}

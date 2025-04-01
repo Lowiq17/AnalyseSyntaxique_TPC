@@ -1,0 +1,6 @@
+void test(void) {
+    int z;
+    int a,b,c,d;
+    int v;
+    return;
+}

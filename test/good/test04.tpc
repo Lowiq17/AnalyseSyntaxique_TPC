@@ -1,0 +1,10 @@
+char compute(int x) {
+    if (x == 0) {
+        return 'z';
+        if (x == 0) {
+            return 'r';
+        }
+    } else  {
+        return 'a';
+    }
+}
